@@ -1,0 +1,7 @@
+add_subdirectory(1.1.GeometricTransformation)
+add_subdirectory(2.1.Gray-LevelTransformation)
+add_subdirectory(2.2.HistogramProcessing)
+add_subdirectory(3.1.Smoothing)
+add_subdirectory(3.2.Sharpening)
+add_subdirectory(4.1.ImageEnhancement)
+add_subdirectory(5.1.ImageRestoration)
